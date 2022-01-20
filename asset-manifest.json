@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vidhanshu/Vnotes.git/static/css/main.c64897ce.css",
+    "main.js": "/vidhanshu/Vnotes.git/static/js/main.275f275c.js",
+    "static/media/complete.wav": "/vidhanshu/Vnotes.git/static/media/complete.3e2b8a36c21e21afa1a5.wav",
+    "static/media/add.wav": "/vidhanshu/Vnotes.git/static/media/add.9ea56cbd4f6af09b2bc7.wav",
+    "static/media/tap.wav": "/vidhanshu/Vnotes.git/static/media/tap.1b1743f7d47d81bdde51.wav",
+    "static/media/Frame 1.svg": "/vidhanshu/Vnotes.git/static/media/Frame 1.2fe5f84b1766dac62369348cf8d9beb3.svg",
+    "static/media/gdone.png": "/vidhanshu/Vnotes.git/static/media/gdone.17e18c1f96e18c06364b.png",
+    "index.html": "/vidhanshu/Vnotes.git/index.html",
+    "static/media/delete.svg": "/vidhanshu/Vnotes.git/static/media/delete.a53e22036f5f02bda3f291072d6c5f80.svg",
+    "static/media/done.svg": "/vidhanshu/Vnotes.git/static/media/done.6a318b8dd3700fbfffdbdeb239a7ade9.svg",
+    "main.c64897ce.css.map": "/vidhanshu/Vnotes.git/static/css/main.c64897ce.css.map",
+    "main.275f275c.js.map": "/vidhanshu/Vnotes.git/static/js/main.275f275c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c64897ce.css",
+    "static/js/main.275f275c.js"
+  ]
+}
